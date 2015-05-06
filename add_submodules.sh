@@ -7,7 +7,7 @@ MODULES=(
 	"JEDataCollector"
 	"JEApplication"
 	"JEConfig"
-	"JEWebservice"
+	"JEWebService"
 	)
 
 for module in ${MODULES[@]};
