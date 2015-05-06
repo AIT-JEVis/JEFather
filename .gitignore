@@ -1,0 +1,11 @@
+# ignore editor-files
+*.bak
+*.swp
+*.swo
+*~
+
+# ignore dolphin directory files
+*.directory
+
+# ignore maven build directory
+tartget/

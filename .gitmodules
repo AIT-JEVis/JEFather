@@ -1,0 +1,21 @@
+[submodule "JEAPI"]
+	path = JEAPI
+	url = git@github.com:AIT-JEVis/JEAPI.git
+[submodule "JECommons"]
+	path = JECommons
+	url = git@github.com:AIT-JEVis/JECommons.git
+[submodule "JEAPI-SQL"]
+	path = JEAPI-SQL
+	url = git@github.com:AIT-JEVis/JEAPI-SQL.git
+[submodule "JEDataCollector"]
+	path = JEDataCollector
+	url = git@github.com:AIT-JEVis/JEDataCollector.git
+[submodule "JEApplication"]
+	path = JEApplication
+	url = git@github.com:AIT-JEVis/JEApplication.git
+[submodule "JEConfig"]
+	path = JEConfig
+	url = git@github.com:AIT-JEVis/JEConfig.git
+[submodule "JEWebService"]
+	path = JEWebService
+	url = git@github.com:AIT-JEVis/JEWebService.git
