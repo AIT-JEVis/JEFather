@@ -16,6 +16,6 @@
 [submodule "JEConfig"]
 	path = JEConfig
 	url = git@github.com:AIT-JEVis/JEConfig.git
-[submodule "JEWebService"]
-	path = JEWebService
-	url = git@github.com:AIT-JEVis/JEWebService.git
+[submodule "JEWebservice"]
+	path = JEWebservice
+	url = git@github.com:AIT-JEVis/JEWebservice.git
