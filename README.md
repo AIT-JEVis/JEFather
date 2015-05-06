@@ -7,6 +7,8 @@ automatically initialize and download the repository including the submodules wi
 
 `git clone --recursive git@github.com:AIT-JEVis/JEFather.git`
 
+`git submodule foreach "git checkout master"`
+
 ### Keep up to date with AIT-changes
 #### Pull latest JEFather status
 To pull changes for JEMother and all submodules and then checkout the (by JEMother) specified commits we reccomend to define a git-alias:
