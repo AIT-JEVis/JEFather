@@ -2,6 +2,13 @@
 
 git repo with submodules tracking the AIT-forks of openjevis-repos
 
+## Development with forks
+
+When using the terminology `upstream` the original repo hosted on https://github.com/OpenJEVis is meant. The repository hosted on https://github.com/AIT-JEVis is called `origin`.
+
+New code should be commited and pushed to branches in `origin` (the repo hosted at `AIT-JEVis`). Afterwards create a pull-request to merge the changes into the repository of `openjevis`. When the changes are in the master branch of openjevis the changes can be pulled from `upstream/master` into `origin/master`.
+
+
 ## Managing the repository
 automatically initialize and download the repository including the submodules with the command
 
